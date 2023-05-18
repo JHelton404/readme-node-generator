@@ -3,7 +3,7 @@
   ## Description
   What will my project's aim be?
 
-  This project utilizes node.js in order to auto-generate a professional README for future projects. Saving time on a task that could otherwise be used to generate code.
+  This project utilizes node.js in order to auto-generate a professional README for future projects.
 
   ## Table of Contents
 
@@ -14,19 +14,19 @@
 
   ## Installation
   How will my project be installed?
-  
+  Download the Repo, with node.js, and run node.js at the file location. In order to start
 
   ## Usage
   How would someone use my project?
-  To generate readme's for future projects quickly
+  Saving time on a task that could otherwise be used to generate code.
 
   ## Contributing
   If you have any questions or would like to contribute to this project, please contact the author at
 
   * Github Username: github.com/jhelton404
-  * Email Address: jonhleton405@gmail.com
+  * Email Address: jonhelton405@gmail.com
 
 ## License 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)], 
-  This project is licensed under the MIT license.
-https://opensource.org/licenses/MIT
+  [![License: GPL-3.0](https://img.shields.io/badge/License-GPLv3-blue.svg)], 
+  This project is licensed under the GPL license, version 3.0.
+https://opensource.org/licenses/GPL-3.0
